@@ -12,12 +12,12 @@ The Dataset Contains IT Support Ticket Data Ticekt Id, Customer Name, Customer G
 -Create interactive dashboards in Power BI
 
 ## Project Structure
-data
+-data
    | customer_support_ticketing(raw).csv
-data cleaning
+-data cleaning
    | customer_support_ticketing(cleaned).csv
    | datacleaning.ipynb
-documentaion
+-documentaion
    | week 1
    | week 2
    | week 3
@@ -26,27 +26,27 @@ documentaion
    | week 6
    | week 7
    | week 8
-powerbi
+-powerbi
    |
 
-##Dashboards Created
-1️ Ticket Overview Dashboard
+## Dashboards Created
+- Ticket Overview Dashboard
 Displays:
 Shows overall ticket volume
 priority distribution
 and status breakdown.
 
-2️ Performance Dashboard
+- Performance Dashboard
 Displays:
-Average resolution time
-Average satisfaction rating
-Ticket trends over time
+-Average resolution time
+-Average satisfaction rating
+-Ticket trends over time
 
-3️ Customer Insights Dashboard
+- Customer Insights Dashboard
 Displays:
-Customer satisfaction
-Satisfaction patterns
-Ticket categories
+-Customer satisfaction
+-Satisfaction patterns
+-Ticket categories
 
 ## Tools Used 
 - Power BI
