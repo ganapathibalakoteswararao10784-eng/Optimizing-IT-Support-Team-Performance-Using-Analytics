@@ -30,7 +30,7 @@ The Dataset Contains IT Support Ticket Data Ticekt Id, Customer Name, Customer G
    |
 
 ## Dashboards Created
-- Ticket Overview Dashboard
+-Ticket Overview Dashboard
 Displays:
 Shows overall ticket volume
 priority distribution
@@ -38,15 +38,15 @@ and status breakdown.
 
 - Performance Dashboard
 Displays:
--Average resolution time
--Average satisfaction rating
--Ticket trends over time
+Average resolution time
+Average satisfaction rating
+Ticket trends over time
 
 - Customer Insights Dashboard
 Displays:
--Customer satisfaction
--Satisfaction patterns
--Ticket categories
+Customer satisfaction
+Satisfaction patterns
+Ticket categories
 
 ## Tools Used 
 - Power BI
