@@ -58,7 +58,9 @@ Ticket categories
 - Github
 
 ## KPI'S
-
+- total tickets that are overall in the dataset
+- average resolution time that are to solve the ticket
+- customer satisfaction rating by customer  that after the ticked is closed
 
 ## Key Insights
 - Understanding The Resolution Time
