@@ -27,8 +27,9 @@ The Dataset Contains IT Support Ticket Data Ticekt Id, Customer Name, Customer G
    - week 7
    - week 8
 - powerbi
+   - Dashboard-1.png
+   - Dashboard-2.png
    
-
 ## Dashboards Created
 -Ticket Overview Dashboard
 Displays:
