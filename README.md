@@ -7,27 +7,27 @@ Analytics project to optimize IT support team performance using ticket data, KPI
 The Dataset Contains IT Support Ticket Data Ticekt Id, Customer Name, Customer Gender, Cusrtomer Age, Product Purchased, Date Of Purchase, Ticket Type, Ticket Subject, Ticket Description, Ticket Status, Resolution, First Response Time, Time to Resolution, Customer Satisfaction Rating. This Data Is Used To Optimise IT TIcket Performance
 
 ## Objectives
--Clean and preprocess raw ticket dataset
--Perform exploratory data analysis (EDA)
--Create interactive dashboards in Power BI
+- Clean and preprocess raw ticket dataset
+- Perform exploratory data analysis (EDA)
+- Create interactive dashboards in Power BI
 
 ## Project Structure
--data
-   | customer_support_ticketing(raw).csv
--data cleaning
-   | customer_support_ticketing(cleaned).csv
-   | datacleaning.ipynb
--documentaion
-   | week 1
-   | week 2
-   | week 3
-   | week 4
-   | week 5
-   | week 6
-   | week 7
-   | week 8
--powerbi
-   |
+- data
+   - customer_support_ticketing(raw).csv
+- data cleaning
+   - customer_support_ticketing(cleaned).csv
+   - datacleaning.ipynb
+- documentaion
+   - week 1
+   - week 2
+   - week 3
+   - week 4
+   - week 5
+   - week 6
+   - week 7
+   - week 8
+- powerbi
+   
 
 ## Dashboards Created
 -Ticket Overview Dashboard
